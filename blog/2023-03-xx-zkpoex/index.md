@@ -25,7 +25,7 @@ With zero-knowledge proofs, the auditor can prove that they know of a transactio
 Consequently, projects are incentivized to collaborate with auditors to fix the vulnerability, fostering a stronger relationship between hackers and project owners. 
 The result is a more secure DeFi ecosystem where vulnerabilities are addressed effectively and confidentially.
 
-![](assets/zkpoex.png)
+![](assets/zkpoex-diagram.png)
 
 zkPoEX was developed by [@zkoranges](https://twitter.com/zkoranges) and [@feder.eth](https://twitter.com/feder_eth) with acknowledgements to Daniel Lumi for advisory and Maciej Zieliński for his insightful [blog post](https://odra.dev/blog/evm-at-risc0/) on EVM inside the RISC Zero zkVM. 
 
