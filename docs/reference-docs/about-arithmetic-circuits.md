@@ -10,9 +10,7 @@ Because arithmetic circuits consist only of addition and multiplication, the cir
 - $n$ is the number of inputs to the polynomial, and 
 - the degree of $C$ is bounded by the number of multiplications in the circuit.
   
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ArithmeticCircuit.svg/258px-ArithmeticCircuit.svg.png">
-</div>
+![](assets/arithmeticcircuit.png)
 
 The circuit pictured above can be written as $C(x_1, x_2) = (x_1+x_2)\cdot x_2 \cdot (x_2+1)$. This simple example is drawn from [Wikipedia](https://en.wikipedia.org/wiki/Arithmetic_circuit_complexity).
   
