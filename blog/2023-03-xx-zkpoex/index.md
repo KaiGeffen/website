@@ -41,3 +41,4 @@ Stay tuned for more updates on the RISC Zero zkVM and its groundbreaking applica
 To find more info about zkPoEX: 
 - Github: https://github.com/zkoranges/zkPoEX
 - Twitter: https://twitter.com/zkpoex
+- [ETHDenver Presentation](https://www.youtube.com/watch?v=c_s75S8ptyU&t=3965s)
