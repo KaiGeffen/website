@@ -1,7 +1,7 @@
 ---
 slug: zkpoex
 title: 'Revolutionizing DeFi Security: ZK Proof of Exploit on RISC Zero'
-authors: [orange]
+authors: [paul]
 tags: [zkpoex, ethdenver]
 ---
 
