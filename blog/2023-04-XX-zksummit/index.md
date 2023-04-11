@@ -34,7 +34,7 @@ Video Reference coming soon <br/>
 About 30% of the witness-generation in RISC Zero is spent generating columns for a PLOOKUP-based lookup argument. 
 LogUp offers a ~50% reduction in the number of columns necessary in lookup tables. 
 
-## The Mersenne Prime `2^31-1`
+## The Mersenne Prime $2^{31}-1$
 [Video Reference](https://www.youtube.com/watch?v=giFA3UXbu_s&t=305s) <br/>
 [Slides](https://drive.google.com/file/d/1JaoqFUARyUXuaz4PBUG0R64_Yuzc5O-_/view?usp=sharing)
 
