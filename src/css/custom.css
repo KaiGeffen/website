@@ -37,3 +37,8 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Mermaid elements must be changed to be visible in dark mode */
+[data-theme='dark'] .mermaid .messageLine0, .messageLine1 {
+      filter: invert(51%) sepia(84%) saturate(405%) hue-rotate(21deg) brightness(94%) contrast(91%) !important;
+}
