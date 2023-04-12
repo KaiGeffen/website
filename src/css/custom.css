@@ -42,3 +42,7 @@
 [data-theme='dark'] .mermaid .messageLine0, .messageLine1 {
       filter: invert(51%) sepia(84%) saturate(405%) hue-rotate(21deg) brightness(94%) contrast(91%) !important;
 }
+/* NOTE Must be a separate specification from the above or it won't toggle off */
+[data-theme='dark'] .mermaid .flowchart-link {
+      filter: invert(51%) sepia(84%) saturate(405%) hue-rotate(21deg) brightness(94%) contrast(91%) !important;
+}
