@@ -145,7 +145,6 @@ We are offering a total of 5 prizes, with a top prize of 7,000 USDC and a minimu
 
 ### Resources
 
-- Bonsai Bounty Notion Page: [https://risczero.notion.site/ETHDenver-RISC-Zero-Bonsai-Bounty-Resources-881f1675a7dd4d2faed7ee9c0894e5c3](https://www.notion.so/ETHDenver-RISC-Zero-Bonsai-Bounty-Resources-881f1675a7dd4d2faed7ee9c0894e5c3)
 - Bonsai Bounty Developer Website: [https://dev.bonsai.xyz](https://dev.bonsai.xyz)
 - Get Started With Bonsai: [https://dev.bonsai.xyz/get-started](https://dev.bonsai.xyz/get-started)
 - Explainers: [https://www.risczero.com/docs/explainers](https://www.risczero.com/docs/explainers)
